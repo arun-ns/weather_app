@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Sunny Day</string>
+    <string name="title_activity_tab">TabActivity</string>
+    <string name="tab_upcoming">Upcoming</string>
+    <string name="tab_hottest">Hottest</string>
+
+    // Activity Details
+    <string name="download_image">Download Image</string>
+    <string name="download_image_error">Error Downloading Images</string>
+    <string name="downloading">Downloading…</string>
+    <string name="hours_minutes">HH:mm</string>
+    <string name="high">High</string>
+    <string name="low">Low</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+    <string name="chance_of_rain">Chance of rain</string>
+    <string name="temperature">Celsius/Fahrenheit</string>
+
+
+    <string name="day">Day : </string>
+
+</resources>
